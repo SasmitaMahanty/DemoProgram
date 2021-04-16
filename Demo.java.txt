@@ -3,4 +3,5 @@ public class suna{
              System.out.println("Helo");
 
 }
+public void m2(){}
 }
