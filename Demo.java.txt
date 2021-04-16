@@ -4,4 +4,7 @@ public class suna{
 
 }
 public void m2(){}
+public static void main(String[] args){
+Suna s=new Suna();
+s.m1();
 }
